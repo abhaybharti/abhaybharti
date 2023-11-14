@@ -13,10 +13,6 @@
 
 - 🤝 I’m looking for help with **JavaScript, CSS, HTML, ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://notesofab.netlify.app/](https://notesofab.netlify.app/)
-
-- 📝 I regularly write articles on [https://notesofab.netlify.app/blog](https://notesofab.netlify.app/blog)
-
 - 💬 Ask me about **Selenium, Java, Rest Assured, Appium, JMeter, JavaScript, Test Automation, Jenkins, API Testing**
 
 - 📫 How to reach me **abhaybharti@gmail.com**
