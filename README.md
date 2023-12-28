@@ -21,7 +21,7 @@
 <hr>
 <ul>
 <li>
- JavaScript, Playwright, HTML, CSS, ReactJS, Redux, Docker</li>
+ JavaScript, TypeScript, Playwright, HTML, CSS, ReactJS, Redux, Docker</li>
 <li>Design patterns and Refactoring techniques</li>
 
 <li>Developing API using Node.js</li>
