@@ -73,7 +73,7 @@ My focus is on practical GenAI applications that solve real engineering problems
 - **LinkedIn:** [linkedin.com/in/abhaybharti](https://www.linkedin.com/in/abhaybharti/)
 - **GitHub:** [github.com/abhaybharti](https://github.com/abhaybharti)
 - **X:** [@abhaybharti](https://x.com/abhaybharti)
-- **Email:** [abhaybharti@gmail.com](mailto:abhaybharti@gmail.com)
+- **Email:** [abhaybharti@gmail.com](mailto:bhartiabhay@zohomail.in)
 
 ---
 
